@@ -1,0 +1,99 @@
+﻿@model IEnumerable<TestAPISimple.Models.Recruitment>
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>ListRecruitments</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f7f7f7;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #e5e5e5;
+            border-radius: 4px;
+            margin-top: 50px;
+        }
+
+        .table {
+            width: 100%;
+            margin-bottom: 20px;
+            border-collapse: collapse;
+        }
+
+            .table th,
+            .table td {
+                padding: 8px;
+                line-height: 1.42857143;
+                vertical-align: top;
+                border-top: 1px solid #ddd;
+            }
+
+            .table th {
+                background-color: #f5f5f5;
+                font-weight: bold;
+            }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .btn-primary {
+            background-color: #428bca;
+            border-color: #357ebd;
+            color: #fff;
+        }
+
+            .btn-primary:hover,
+            .btn-primary:focus,
+            .btn-primary:active,
+            .btn-primary.active {
+                background-color: #3276b1;
+                border-color: #285e8e;
+                color: #fff;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>Career</th>
+                    <th>Skill</th>
+                    <th>CompanyName</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Career</td>
+                        <td>@item.Skill</td>
+                        <td>@item.CompanyName</td>
+                        <td>
+                            @Html.ActionLink("Edit", "EditRecruitment", new { id = item.RecruitmentID })
+                            @Html.ActionLink("Delete", "DeleteRecruitment", new { id = item.RecruitmentID })
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+        <div class="form-group">
+            <a href="/Recruitment/CreateRecruitment" class="btn btn-primary">Create</a>
+        </div>
+    </div>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

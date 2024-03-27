@@ -1,0 +1,255 @@
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll.config
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.pdb
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe.config
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.rsp
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe.config
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.rsp
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Console.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe.config
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.rsp
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Razor.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\WebGrease.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Razor.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.AssemblyReference.cache
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CoreCompileInputs.cache
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CopyComplete
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.dll
+C:\Users\admin\Máy tính\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.pdb
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll.config
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\TestAPISimple.pdb
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe.config
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csc.rsp
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe.config
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\csi.rsp
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.AppContext.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Collections.Immutable.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Console.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Globalization.Calendars.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Http.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Sockets.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Reflection.Metadata.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.ValueTuple.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe.config
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\vbc.rsp
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe.config
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.Web.Infrastructure.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Razor.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\WebGrease.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.Razor.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.pdb
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.AssemblyReference.cache
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CoreCompileInputs.cache
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CopyComplete
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.dll
+E:\Hoc tap\DACN\TestWebLoginAPI\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.pdb
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll.config
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\TestAPISimple.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\TestAPISimple.pdb
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csc.exe.config
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csc.rsp
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csi.exe.config
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\csi.rsp
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.AppContext.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Console.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Http.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Net.Sockets.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.ValueTuple.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\vbc.exe.config
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\vbc.rsp
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Http.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Razor.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\WebGrease.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Newtonsoft.Json.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Net.Http.Formatting.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Helpers.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Http.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Http.WebHost.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Mvc.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Optimization.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.Razor.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Deployment.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\System.Web.WebPages.Razor.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Antlr3.Runtime.pdb
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.AssemblyReference.cache
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CoreCompileInputs.cache
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.csproj.CopyComplete
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.dll
+C:\Users\admin\Máy tính\DACN\File Bao Cao\TestAPISimple\TestAPISimple\obj\Debug\TestAPISimple.pdb

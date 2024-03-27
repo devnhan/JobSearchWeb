@@ -1,0 +1,88 @@
+﻿@model TestAPISimple.Models.Candidates
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        body {
+            background-image: url('@Url.Content("~/Content/pic/viec-lam-online.jpg")');
+            background-repeat: no-repeat;
+            background-size: cover;
+            padding-top: 40px;
+            padding-bottom: 40px;
+        }
+
+        .container {
+            max-width: 330px;
+            margin: 0 auto;
+        }
+
+        .form-signup {
+            background-color: #fff;
+            padding: 15px;
+            border: 1px solid #e5e5e5;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        .form-signup .form-control {
+            position: relative;
+            height: auto;
+            box-sizing: border-box;
+            padding: 10px;
+            font-size: 16px;
+        }
+
+        .form-signup input[type="text"],
+        .form-signup input[type="email"],
+        .form-signup input[type="password"] {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Candidate Registration</h2>
+        <hr />
+        @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+        @using (Html.BeginForm("Register", "Candidate", FormMethod.Post, new { @class = "form-signup" }))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CandidatesName, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.CandidatesName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CandidatesName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CandidatesEmail, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.CandidatesEmail, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CandidatesEmail, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CandidatesPassword, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.CandidatesPassword, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CandidatesPassword, "", new { @class = "text-danger" })
+            </div>
+
+            <!-- Add other fields as needed -->
+
+            <div class="form-group">
+                <input type="submit" id="btnRegister" value="Register" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+    <script src="~/Scripts/PageScripts/CandidateRegister.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

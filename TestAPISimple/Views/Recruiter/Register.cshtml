@@ -1,0 +1,107 @@
+﻿@model TestAPISimple.Models.Recruiter
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Register</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f7f7f7;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 400px;
+            margin: 0 auto;
+            padding: 40px;
+            background-color: #fff;
+            border: 1px solid #e5e5e5;
+            border-radius: 4px;
+            margin-top: 100px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .control-label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        .form-control {
+            width: 100%;
+            height: 34px;
+            padding: 6px 12px;
+            font-size: 14px;
+            line-height: 1.42857143;
+            color: #555;
+            background-color: #fff;
+            background-image: none;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+            box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+            transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+        }
+
+        .btn-primary {
+            background-color: #428bca;
+            border-color: #357ebd;
+            color: #fff;
+        }
+
+            .btn-primary:hover,
+            .btn-primary:focus,
+            .btn-primary:active,
+            .btn-primary.active {
+                background-color: #3276b1;
+                border-color: #285e8e;
+                color: #fff;
+            }
+    </style>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("Register", "Recruiter", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+            <h2>Recruiter Registration</h2>
+            <hr />
+            @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.RecruiterName, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.RecruiterName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecruiterName, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.RecruiterEmail, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.RecruiterEmail, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecruiterEmail, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.RecruiterPassword, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.RecruiterPassword, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.RecruiterPassword, "", new { @class = "text-danger" })
+            </div>
+
+            <!-- Add other fields as needed -->
+
+            <div class="form-group">
+                <input type="submit" id="btnRegister" value="Register" class="btn btn-primary" />
+            </div>
+        }
+    </div>
+    <script src="~/Scripts/PageScripts/RecruiterRegister.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

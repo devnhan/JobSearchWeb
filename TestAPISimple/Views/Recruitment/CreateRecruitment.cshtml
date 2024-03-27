@@ -1,0 +1,89 @@
+﻿@model TestAPISimple.Models.Recruitment
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>CreateRecruitment</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <style>
+        body {
+            background-color: #f7f7f7;
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #e5e5e5;
+            border-radius: 4px;
+            margin-top: 50px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .control-label {
+            font-weight: bold;
+        }
+
+        .btn-default {
+            background-color: #f0ad4e;
+            border-color: #eea236;
+            color: #fff;
+        }
+
+            .btn-default:hover,
+            .btn-default:focus,
+            .btn-default:active,
+            .btn-default.active {
+                background-color: #ec971f;
+                border-color: #d58512;
+                color: #fff;
+            }
+
+        .text-danger {
+            color: #a94442;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        @using (Html.BeginForm("CreateRecruitment", "Recruitment", FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Career, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.Career, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Career, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.Skill, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.Skill, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.Skill, "", new { @class = "text-danger" })
+            </div>
+
+            <div class="form-group">
+                @Html.LabelFor(model => model.CompanyName, htmlAttributes: new { @class = "control-label" })
+                @Html.EditorFor(model => model.CompanyName, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.ValidationMessageFor(model => model.CompanyName, "", new { @class = "text-danger" })
+            </div>
+            <!-- Add other fields based on your Recruitment model -->
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        }
+    </div>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

@@ -1,0 +1,114 @@
+﻿@model TestAPISimple.Models.Recruitment
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>DeleteRecruitment</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f5f5f5;
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            border: 1px solid #ddd;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+
+        h4 {
+            margin-top: 0;
+            color: #333;
+        }
+
+        dl {
+            margin-bottom: 20px;
+        }
+
+        dt {
+            font-weight: bold;
+        }
+
+        .form-actions {
+            margin-top: 20px;
+        }
+
+        .btn {
+            display: inline-block;
+            padding: 6px 12px;
+            margin-bottom: 0;
+            font-size: 14px;
+            font-weight: normal;
+            line-height: 1.42857143;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            cursor: pointer;
+            background-image: none;
+            border: 1px solid transparent;
+            border-radius: 4px;
+        }
+
+        .btn-danger {
+            color: #fff;
+            background-color: #d9534f;
+            border-color: #d43f3a;
+        }
+
+        .btn-default {
+            color: #333;
+            background-color: #fff;
+            border-color: #ccc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h4>Recruitment Details</h4>
+        <hr />
+        <dl class="dl-horizontal">
+            <dt>
+                @Html.DisplayNameFor(model => model.Career)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Career)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.Skill)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.Skill)
+            </dd>
+
+            <dt>
+                @Html.DisplayNameFor(model => model.CompanyName)
+            </dt>
+            <dd>
+                @Html.DisplayFor(model => model.CompanyName)
+            </dd>
+            <!-- Add other fields as needed -->
+        </dl>
+
+        @using (Html.BeginForm("DeleteConfirmedRecruitment", "Recruitment", new { id = Model.RecruitmentID }, FormMethod.Post))
+        {
+            @Html.AntiForgeryToken()
+
+            <div class="form-actions no-color">
+                <input type="submit" value="Delete" class="btn btn-danger" />
+                @Html.ActionLink("Cancel", "ListRecruitments", null, new { @class = "btn btn-default" })
+            </div>
+        }
+    </div>
+</body>
+</html>
